@@ -1,0 +1,13 @@
+.container{
+  height: 400px;
+  width: 500px;
+  background-color: pink;
+  align-items: center;
+  justify-content: center;
+}
+button{
+  height: 40px;
+  width: 40px;
+  border: solid black;
+  border-radius: 30px;
+}
